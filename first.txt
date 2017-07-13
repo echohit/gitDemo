@@ -5,4 +5,4 @@ secend
 third
 
 11111
-Creating a new branch is quick and pretty
+Creating a new branch is quick and good.
